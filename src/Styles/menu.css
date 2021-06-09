@@ -1,0 +1,30 @@
+.heading {
+  text-align-last: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 200px 0 200px;
+}
+
+.menu-calculators {
+  /* background-image: url(../img.jpg); */
+  background-color: grey;
+  /* background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover; */
+  cursor: pointer;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  text-shadow: 2px 2px 1px #3c3c3c;
+  width: 300px;
+  border: 3px solid yellowgreen;
+  position: relative;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  height: 176px;
+}
